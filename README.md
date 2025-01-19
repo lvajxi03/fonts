@@ -12,13 +12,23 @@ All fonts are available in two flavours, `Mono` and `Sans` (fixed and variable w
 
 Available families are now:
 
-* EF64
+* EF64,
+* Kwadraciki,
+* Punkciki
 
 ## Gallery
 
 * EF64:
 
 ![ef64](images/ef64.png)
+
+* Kwadraciki:
+
+![kwadraciki](images/kwadraciki.png)
+
+* Punkciki:
+
+![punkciki](images/punkciki.png)
 
 ## Misc
 
