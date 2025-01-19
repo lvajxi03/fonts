@@ -247,7 +247,7 @@
 
 <collection name=".notdef" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
-	<glyph id="0" left="-20" right="33" zero_width="false">
+	<glyph id="0" left="-20" right="36" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="S -19.9785,69.95238 L 30.0215,69.95238 L 30.0215,59.95238 L -19.9785,59.95238 L -19.9785,69.95238" />
 			<path data="S 19.97388,59.97388 L 29.97388,59.97388 L 29.97388,-0.02612 L 19.97388,-0.02612 L 19.97388,59.97388" />
