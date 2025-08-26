@@ -14,7 +14,8 @@ Available families are now:
 
 * EF64,
 * Kwadraciki,
-* Punkciki
+* Punkciki,
+* AlmostC64
 
 ## Gallery
 
@@ -29,6 +30,10 @@ Available families are now:
 * Punkciki:
 
 ![punkciki](images/punkciki.png)
+
+* AlmostC64
+
+![almostc64](images/almostc64.png)
 
 ## Misc
 

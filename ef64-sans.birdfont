@@ -343,7 +343,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="S -28,70 L 20,70 L 20,60 L -28,60 L -28,70" />
+			<path data="S -28,70 L 22,70 L 22,60 L -28,60 L -28,70" />
 			<path data="S -28,60 L -18,60 L -18,30 L -28,30 L -28,60" />
 			<path data="S -18,40 L 12,40 L 12,30 L -1.45,30 L -18,30 L -18,40" />
 			<path data="S 12,30 L 22,30 L 22,10 L 12,10 L 12,30" />
@@ -517,10 +517,10 @@
 		<layer name="Layer" visible="true">
 			<path data="S -28,70 L 12,70 L 12,60 L -28,60 L -28,60.7 L -28,70" />
 			<path data="S 12,60 L 21.45,60 L 22,60 L 22,40 L 12,40 L 12,60" />
-			<path data="S -28,60 L -18,60 L -18,0 L -28,0 L -28,60" />
+			<path data="S -28,60 L -18,60 L -18,0 L -28,0 L -28,39.1 L -28,60" />
 			<path data="S -18,10 L 12,10 L 12,0 L -18,0 L -18,10" />
 			<path data="S 12,30 L 22,30 L 22,10 L 12,10 L 12,30" />
-			<path data="S -17.95943,39.97258 L 12,40 L 12,30 L -18,30 L -17.95943,39.97258" />
+			<path data="S -18,40 L 12,40 L 12,30 L -18,30 L -18,40" />
 		</layer>
 	</glyph>
 </collection>
@@ -1269,6 +1269,23 @@
 			<path data="S -8,29.93088 L 2,29.93088 L 2,19.93088 L -8,19.93088 L -8,29.93088" />
 			<path data="S 2,23.93088 L 12,23.93088 L 12,13.93088 L 2,13.93088 L 2,23.93088" />
 			<path data="S 12,29.93088 L 22,29.93088 L 22,19.93088 L 12,19.93088 L 12,29.93088" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+a9" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="S -12,16 L -17.89474,16.10526 L -17.89474,34.10526 L -12,34 L -12,16" />
+			<path data="S -12,16 L 6,16 L 6,10 L -12,10 L -12,16" />
+			<path data="S -12,40 D -10,40 -10.09803,40.10526 -9.46404,40.14035 L 6,40 L 6,34 L -12,34 D -12,34 -12,38.5 -12,40" />
+			<path data="S 6,34 L 12,34 L 12,28 L 6,28 L 6,34" />
+			<path data="S 6,16 L 12,16 L 12,22 L 6,22 D 6,20 6,17.5 6,16" />
+			<path data="S -22,50 D -21.97368,50.02632 -22,50 -21.89474,50.10526 L -17.41588,50.09282 L -9.21303,50.07004 L 16,50 L 16,44 L -22,44 L -22,50" />
+			<path data="S 16,44 L 22,44 L 22,6 L 16,6 L 16,44" />
+			<path data="S -28,44 L -22,44 L -22,6 L -28,6 L -28,44" />
+			<path data="S -22,6 L 16,6 L 16,0 L -21.89474,0.10526 L -22,6" />
 		</layer>
 	</glyph>
 </collection>
